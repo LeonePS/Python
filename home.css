@@ -71,6 +71,14 @@ nav a:active{
     float: right;
 }
 
+.figura1{
+    width: 280px; height: 200px;
+    margin-left: 900px;
+    margin-right: 150px;
+    margin-top: -220px;
+    float: right;
+}
+
 footer{
     text-align: center;
     background: url(./IMG/bg.jpg);
