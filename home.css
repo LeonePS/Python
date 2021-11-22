@@ -42,52 +42,33 @@ nav a:active{
     color: khaki;
 }
 
-.lista{
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-    
-    
-}
-
-.lista li{
-    display: inline-block;
-    text-align: center;
-    vertical-align: top;
-    width: 40%;
-    margin: 0 1.5%;
-    padding:  30px 20px;
-    box-sizing: border-box;
-    border: 2px dashed black;
-    border-radius: 10px;
-    
-}
-
-.lista h2{
-    font-size: 30px;
+.titulo{
+    font-style: italic;
+    font-size: 33px;
     font-weight: bold;
+    margin-left: 15px;
+    margin-top: 13px;
 }
 
-.lista li:hover{
-    border-color: burlywood;
-}
-
-.lista li:hover h2{
-    font-size: 34px;
-}
-
-.lista li:active{
-    border-color: khaki;
-}
-
-.descriçao{
+.conteudo{
+    width: 700px;
+    height: auto;
+    margin-left: 80px;
+    margin-right: 300px;
     font-size: 18px;
 }
 
-.preço{
-    font-size: 22px;
+.Pnegrito{
     font-weight: bold;
-    margin-top: 10px;
+    font-size: 20px;
+}
+
+.Guido{
+    width: 200px; height: 300px;
+    margin-left: 900px;
+    margin-right: 200px;
+    margin-top: -550px;
+    float: right;
 }
 
 footer{
